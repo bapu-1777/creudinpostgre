@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-@CrossOrigin(origins = "http://localhost:5432")
+@CrossOrigin("https://bapu-1777.github.io")
 @RestController
 @RequestMapping("/api")
 public class TutorialController {
